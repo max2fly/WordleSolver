@@ -67,3 +67,6 @@ After each feedback command, the solver displays:
 1. Remaining possibilities count
 2. The board with colored tiles reflecting your guesses
 3. Top solve suggestions (up to 3 if tied at the highest score)
+
+TODO: 
+- Modify the UI to be more user friendly
